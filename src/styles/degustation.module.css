@@ -1,0 +1,20 @@
+.degustation {
+    width: 100%;
+    background-color: rgba(40, 40, 40, 1);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.wrapper {
+    padding: 40px;
+    width: 100%;
+    text-align: justify;
+    border: 3px solid rgba(196, 196, 196, 1);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    color: white;
+}

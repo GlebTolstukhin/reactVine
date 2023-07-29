@@ -1,0 +1,57 @@
+
+.headerUp {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 70px;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.5;
+    background: transparent;
+    position: relative;
+    z-index: 4;
+    color: white;
+    
+}
+.headerDawn {
+    display: flex;
+    align-items: center;
+    min-height: 47px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    position: relative;
+    z-index: 4;
+
+}
+.headerDawn a {
+    color: white;
+}
+.headerButton {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 47px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+}
+.splitter {
+    width: 1px;
+    min-height: 47px;
+    background-color: white;
+}
+.img {
+    position: absolute;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    top: 0;
+    margin: 0  auto;
+    z-index: 0;
+}

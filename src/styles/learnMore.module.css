@@ -1,0 +1,15 @@
+.learnMore {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.wrapper {
+    border: 3px solid rgba(153, 132, 49, 1);
+    padding: 40px;
+    font-family: Playfair Display;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
